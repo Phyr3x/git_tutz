@@ -1,1 +1,2 @@
-This is my first created file
+This is my first created file.
+This is a new line of info.
